@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bai_tap_thay_Cop</string>
+    <string name="txtTen">input name</string>
+    <string name="hint_submit_button">submit</string>
+    <string name="hello">"HELLO "</string>
+    <string name="rich">WOW! YOU ARE VERY RICH</string>
+    <string name="not_rich">NOT RICH. TRY MORE</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
